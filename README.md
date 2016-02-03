@@ -24,13 +24,9 @@
 - Load up the Ocean theme from <https://github.com/mdo/ocean-terminal>
 
 ### 3. Install ZSH
-- Install [`oh-my-zsh`] from <https://github.com/robbyrussell/oh-my-zsh>
+- Install `oh-my-zsh` from <https://github.com/robbyrussell/oh-my-zsh>
 - Install Wes Bos' cobalt2 theme for iTerm from <https://github.com/wesbos/Cobalt2-iterm>
 - Install Powerline fonts as needed from <https://github.com/powerline/fonts>
-
-- Load [`.bash_profile`](/.bash_profile)
-- Load [`.gitconfig`](/.gitconfig) contents into the global `~/.gitconfig`
-- Load up the Ocean theme from <https://github.com/mdo/ocean-terminal>
 
 ### 4. Secure Git(Hub) access
 
