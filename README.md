@@ -23,21 +23,24 @@
 - Load [`.gitconfig`](/.gitconfig) contents into the global `~/.gitconfig`
 - Load up the Ocean theme from <https://github.com/mdo/ocean-terminal>
 
-### 3. Secure Git(Hub) access
+### 3. Install ZSH
+- Install [`oh-my-zsh`] from <https://github.com/robbyrussell/oh-my-zsh>
+- Install Wes Bos' cobalt2 theme for iTerm from <https://github.com/wesbos/Cobalt2-iterm>
+- Install Powerline fonts as needed from <https://github.com/powerline/fonts>
+
+- Load [`.bash_profile`](/.bash_profile)
+- Load [`.gitconfig`](/.gitconfig) contents into the global `~/.gitconfig`
+- Load up the Ocean theme from <https://github.com/mdo/ocean-terminal>
+
+### 4. Secure Git(Hub) access
 
 - [Generate new SSH key](https://help.github.com/articles/generating-ssh-keys/)
 - [Generate an access token](https://help.github.com/articles/creating-an-access-token-for-command-line-use/) for Terminal to auth your GitHub account when 2FA is enabled.
 
-### 4. GitHub dev setup
+### 5. GitHub dev setup
 
 - Download the Strap setup script for GitHub's foundational development setup.
 - Clone the `github/github` repository and run `script/osx-setup`.
-
-### 5. Setup Ruby
-
-- Install rbenv via Homebrew: `brew install rbenv`.
-- Download a version of Ruby via rbenv (e.g., `rbenv install 2.2.3`). See <https://gorails.com/setup/osx/10.11-el-capitan>.
-- Make it the global version of Ruby: `rbenv global 2.2.3`.
 
 ### 6. Additional dependencies
 
